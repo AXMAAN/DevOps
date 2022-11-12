@@ -1,0 +1,38 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+
+ }   
+.title{
+
+font-size: 20px;
+font-weight: bold;
+width: 330px;
+line-height:25px;
+margin-bottom: 5px;
+}
+
+.text{
+    
+    line-height: 20px;
+    width: 300px;
+
+}
+.apple{
+margin-top: 50px;
+font-size: 14px;
+background-color: red;
+color: white;
+text-align: center;
+width: 500px;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.span-e:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
