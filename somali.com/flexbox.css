@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(18, 238, 220);
+}
+
+.nav-list   {
+display: flex;
+margin: 0;
+padding: 0;
+list-style: none;
+font-weight: bolder;
+font-size: 20px;
+
+}
+.nav-list li{
+ flex-grow: 1;   
+
+}
+.nav-list li a{
+    text-decoration: none; 
+    color: rgb(180, 140, 7); 
+   
+   }
+.nav-list li a:hover{
+    border-bottom: 5px;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    background-color: rgb(168, 163, 248);
+   
+   }
