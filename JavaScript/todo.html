@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Todo List</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+       <button>Press Me</button> 
+       <!--<div>Get groceries</div>
+       <div>Wash car</div>
+       <div>Make dinner</div> -->
+       <script>
+            let todo1 ="Get groceries";
+            let todo2 ="Wash car";
+            let todo3 ="Make dinner";
+        
+        function    AddTodo(todoTitle) {
+            let element = document.createElement('div');
+            element.innerText = todoTitle
+            document.body.appendChild(element);
+
+         }
+            AddTodo(todo1);
+            AddTodo(todo2);
+            AddTodo(todo3);
+
+
+            
+       </script>
+        
+    </body>
+</html>
