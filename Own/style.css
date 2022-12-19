@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  background-color: blue;
+  justify-content: center;
+}
+
+.nav ul {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+}
+.nav ul li {
+  padding: 10px;
+  list-style-type: none;
+  justify-content: center;
+}
+.nav ul li a {
+  background-color: whitesmoke;
+  border-radius: 8px;
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+.nav ul li a:hover {
+  transition: all 300ms ease-in-out;
+  font-weight: bold;
+  color: rgb(22, 7, 7);
+}
