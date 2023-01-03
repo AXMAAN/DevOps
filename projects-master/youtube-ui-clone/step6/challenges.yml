@@ -1,0 +1,4 @@
+name: "Making the clone responsive"
+stepId: step6
+stepBreakDown:
+    - text: You must have made the clone responsive using CSS media query for screens whose width is less than 768px

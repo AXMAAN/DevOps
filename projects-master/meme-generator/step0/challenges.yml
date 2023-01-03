@@ -1,0 +1,8 @@
+name: "Creating Elements "
+stepId: step0
+stepBreakDown:
+  - text: "Add the generate Meme button"
+  - text: "Add the loading Meme title"
+  - text: "Add the Meme author class"
+  - text: "Add the relation between css and java script"
+

@@ -1,0 +1,5 @@
+name: 'Move the bird'
+stepId: step8
+stepBreakDown:
+  - text: "Make sure the bird jumps up some distance on pressing the spacebar"
+  - text: "If you keep clicking the spacebar, the bird should not move out of the game frame"

@@ -1,0 +1,8 @@
+name: "User details"
+stepId: step2
+stepBreakDown:
+  - text: "Make two sections 'first name' and 'last name' using input tags"
+  - text: "Make an input section for email input"
+  - text: "Make an input section for password input"
+  - text: "Make an input section for date of birth"
+  - text: "Usage of placeholder to specify every input"

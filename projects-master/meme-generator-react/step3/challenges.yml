@@ -1,0 +1,7 @@
+name: 'Building the final Meme Image Component'
+stepId: step3
+stepBreakDown:
+    - text: 'Constrct a <div>...</div> below the Form Component built in Step 1 and make its positioning relative'
+    - text: 'Add a <img /> tag with src equal to the state variable declared to store the URL of randomly generated meme image in Step 2'
+    - text: 'Add two div tags positioned absolutely over the image tag, one at the top and the second at the bottom'
+    - text: 'Add text to div tags dynamically using in react state variable storing the text inputted in the input tags in Step 1'

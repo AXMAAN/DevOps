@@ -1,0 +1,7 @@
+name: 'Build a landing page,navbar and footer for this app'
+stepId: step0
+stepBreakDown:
+    - text: 'Your landing page should exist'
+    - text: 'Setup `react-router` package to work with routing logic.'
+    - text: 'There should be links for showing all meetups, signup and after signup creating new meetups pages for user.'
+    - text: 'The landing page should have a basic but proper layout'

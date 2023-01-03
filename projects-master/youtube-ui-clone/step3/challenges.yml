@@ -1,0 +1,4 @@
+name: "Adding content to the header"
+stepId: step3
+stepBreakDown:
+    - text: You must have added content in the header and stylized it using CSS

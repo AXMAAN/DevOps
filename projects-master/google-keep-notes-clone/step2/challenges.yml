@@ -1,0 +1,7 @@
+name: "Implementing the add note functionality."
+stepId: step2
+stepBreakDown:
+  - text: "Create a constant that keeps track of the title and content."
+  - text: "Pass the new note back to the App."
+  - text: "Add new note to an array."
+  - text: "Take array and render seperate Note components for each item."

@@ -1,0 +1,7 @@
+name: "Working with buttons"
+stepId: stp6
+stepBreakDown:
+  - text: "Create some global variable in `script.js` file following instruction 1."
+  - text: "Add an event listener to the `RESET` button, so that whenever user clicks on this button input-output filed and options should be reset."
+  - text: "Add an event listener to the `SWAP` button, to swap the contents of input-output field and options."
+  

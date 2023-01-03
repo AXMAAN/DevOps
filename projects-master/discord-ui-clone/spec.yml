@@ -1,0 +1,29 @@
+name: Discord UI Clone
+tags: ["React","Tailwind"]
+starter-files: https://github.com/codedamn-projects/discord-ui-clone
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/cover-image.png
+short-description: Build a Functional Discord Clone UI with React and Tailwind CSS
+long-description: |
+  Your challenge is to build out a Discord Interface and get it to look as close to the design as possible.
+  
+  This project focuses on your React and CSS skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  Your final project should consist of the following functionalities 
+  
+  - Functional Lading page of Discord along with header and footer
+  - Login and Register Page
+  - Main Page (Dashboard Page) of Discord
+  - Add Friends Page
+  - Server Page
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

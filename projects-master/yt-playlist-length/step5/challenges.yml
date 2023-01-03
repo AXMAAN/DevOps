@@ -1,0 +1,6 @@
+name: "Get Length of the Playlist (2)"
+stepId: step5
+stepBreakDown:
+  - text: "Able to Store all video Id in the array"
+  - text: "Able to figure out the url and the headers."
+  - text: "Got data from the API."

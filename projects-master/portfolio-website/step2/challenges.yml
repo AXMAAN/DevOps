@@ -1,0 +1,8 @@
+name: "Adding Styles"
+stepId: step2
+stepBreakDown:
+  - text: "Write code for custom styling in style.css file"
+  - text: "Add font styles index.html"
+  - text: "Add bootstrap styles link in index.html </head> tag"
+  - text: "Add background-color to See More and View Resume button"
+  - text: "Add color to button and make hover effect on botton"

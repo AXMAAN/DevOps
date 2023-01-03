@@ -1,0 +1,7 @@
+name: "Adding style to Header, main, and side-bar"
+stepId: step2
+stepBreakDown:
+    - text: You must have set the font family to Roboto
+    - text: You must have stylized the Header section
+    - text: You must have stylized the main section
+    - text: You must have stylized the side-bar section

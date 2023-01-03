@@ -1,0 +1,29 @@
+name: Random facts generator
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/its-me-Harsh-Anand/random-facts-starter
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/its-me-Harsh-Anand/random-facts-starter/64a0228ab4f1cd5527ffe6bce54be62a22893de8/assets/facts_tab_look.png
+short-description: A simple random facts generator which will test your HTML, CSS and JavaScript fundamentals.
+long-description: |
+    Your main challenge is to fetch Facts from API and render it dynamically to the website.
+
+    This project focuses mostly on HTML, CSS and JavaScript. The main work is of fetch API in JavaScript and some styles in CSS.
+
+    You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    Your users should be able to:
+
+    - View the optimal layout for the site depending on their device's screen size
+
+    - See some animations with transition effect on clicking buttons and hovering the box containing facts to look cool. 
+
+    Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

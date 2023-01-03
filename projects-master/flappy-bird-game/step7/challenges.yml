@@ -1,0 +1,5 @@
+name: 'Add gravity to the game'
+stepId: step7
+stepBreakDown:
+  - text: "Make sure the bird falls some distance every 100 milliseconds"
+  - text: "If the bird falls to the ground, the game is over"

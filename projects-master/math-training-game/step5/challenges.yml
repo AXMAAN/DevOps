@@ -1,0 +1,9 @@
+name: "Let's conclude the project"
+stepId: step5
+stepBreakDown:
+  - text: "Add event listener to all the option buttons following instruction 1."
+  - text: "Set the `background color` of `wrong options` and `correct option` following instruction 2."
+  - text: "Disable all the option buttons."
+  - text: "Now check whether the user given ans is correct or wrong following instruction 4."
+  - text: "Create an interval called `interval` for the next question generation after 5sec."
+  - text: "Call the `generateAnswer()` function."

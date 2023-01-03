@@ -1,0 +1,6 @@
+name: 'Make frontend how a single will look like'
+stepId: step2
+stepBreakDown:
+    - text: 'Make sure that /showDetail page is reachable from show details via a meetup component'
+    - text: 'This should show the details of the dummy object'
+    - text: 'Add a map to it for the location of place'

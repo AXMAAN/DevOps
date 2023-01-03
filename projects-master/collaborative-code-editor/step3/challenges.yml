@@ -1,0 +1,11 @@
+name: 'Building the backend'
+stepId: step3
+stepBreakDown:
+    - text: The user who creates a room, gets connected to the websocket. 
+    - text: You should start a socket.io room on backend at this point with the room associated with the roomID (random generated room code).
+    - text: Now when other users join this room, socket.io can be used to broadcast a common message to all the clients already in the room.
+    - text: The list of connected users should now be updated in the frontend.
+    - text: the changes in the content inside the code editor should sync with all the other users in the room.
+    - text: The leave button should remove that user from the room and delete their information from the backend.
+
+

@@ -1,0 +1,7 @@
+name: "Complete the generateAnswer() function"
+stepId: step4
+stepBreakDown:
+  - text: "Call the generateQuestion() function within the generateAnswer() function definition."
+  - text: "Create some local variables within the generateAnswer() function definition following instruction 2."
+  - text: "Set all the options including `correct option` as well as `wrong options` following instruction 3."
+  - text: "Clear the `interval` which you will create latter on."

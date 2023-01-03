@@ -1,0 +1,7 @@
+name: "Providing user input coordinates"
+stepId: step6
+stepBreakDown:
+    - text: "Add statement `value={coords.latitude}` to the `<input>` element with the placeholder 'Latitude'."
+    - text: "Add statement `onChange={e => setCoords({ ...coords, latitude: e.target.value })}` to the `<input>` element with the placeholder 'Latitude'."
+    - text: "Add statement `value={coords.longitude}` to the `<input>` element with the placeholder 'Longitude'."
+    - text: "Add statement `onChange={e => setCoords({ ...coords, longitude: e.target.value })}` to the `<input>` element with the placeholder 'Longitude'."

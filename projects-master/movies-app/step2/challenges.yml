@@ -1,0 +1,11 @@
+name: "Making Website UI - Part 2"
+stepId: step2
+stepBreakDown:
+  - text: "Create new section with <main> tag with id as main. In this main tag we will inject the element using Javascript"
+  - text: "Add Style to main section by `#main{}` give properties as : `display: flex; flex-wrap: wrap;`"
+  - text: "Create new `div` with class name `.movie` in main section"
+  - text: "Create `<img>` with class name as `.movie-img`"
+  - text: "Create new `<div>` with class name `.movie-info` in movie div"
+  - text: 'Create new `<h3>` tag with content as "Movie title" and `<span>` tag with class = `.green` '
+  - text: "Create new `<div>` outside of `.movie-info` class but inside the `.movie <div>` with class name as `.overview` "
+  - text: "Create `<h3>` tag with class name as `.overview` and give content as `Lorem20` (Generated random text length of 20) "

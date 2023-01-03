@@ -1,0 +1,7 @@
+name: "Build pages which contains Form for new meetups and update it"
+stepId: step3
+stepBreakDown:
+  - text: "Make a component for form"
+  - text: "Add styling and validation to it."
+  - text: "There should be proper error messages on error inside UI"
+  - text: "Should store the value of the inputs tag in a variable"

@@ -1,0 +1,6 @@
+name: "Manipulating data part 2"
+stepId: step6
+stepBreakDown:
+  - text: "Make a addEventListener to show the searched movie"
+  - text: "Make a addEventListener to go back to main  page which we are getting by sort of famous movies"
+  - text: "Add media query for making responsive to ever screen. Use a media query to add a breakpoint"

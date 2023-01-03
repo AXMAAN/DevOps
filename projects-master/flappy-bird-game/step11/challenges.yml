@@ -1,0 +1,4 @@
+name: 'Implement game over'
+stepId: step11
+stepBreakDown:
+  - text: "The page is refreshed when the game is over"

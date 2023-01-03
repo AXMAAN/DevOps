@@ -1,0 +1,29 @@
+name: Full-stack Todo App
+tags: ["Next.js", "MongoDB"]
+starter-files: https://github.com/codedamn-projects/todo-app-fullstack
+type: fullstack
+level: easy
+cover-image: https://user-images.githubusercontent.com/50735025/151712296-c304bc81-0523-4629-ad34-077e0449ec0a.png
+short-description: Make a Todo application using Next.js and MongoDB
+long-description: |
+  Your challenge is to build out a To Do App and get it to look as close to the design as possible.
+  
+  This project focuses on your Next.js,MongoDB but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  This project should have the following functionalities
+  
+  - A user can register and login to his account
+  
+  - A user should be able to view his Todos
+  
+  - A user should be able to edit & delete his Todos
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: fullstack
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

@@ -1,0 +1,6 @@
+name: 'Discover the project files and routing'
+stepId: step0
+stepBreakDown:
+    - text: 'TailwindCSS is Configured'
+    - text: 'We are using Happy Monkey font from Google Fonts'
+    - text: '/api/intro is a API route which returns the data of the project'

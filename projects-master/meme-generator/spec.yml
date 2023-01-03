@@ -1,0 +1,22 @@
+name: Meme Generator
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/codedamn-projects/meme-generator
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/codedamn-projects/meme-generator/master/desgins/Landing%20Page%20%5BDESKTOP%5D.png
+short-description: A working meme generator page which generate memes based on HTML, CSS and JavaScript.
+long-description: |
+    In this project, you're supposed to build a meme generator page. This includes the following features:
+
+    - Generate meme
+    - Display author name
+    - Loading
+    - meme display
+
+    All the best with the project!
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

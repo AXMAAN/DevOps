@@ -1,0 +1,8 @@
+name: "Styling our App"
+stepId: step2
+stepBreakDown:
+  - text: "read about CSS Reset that was pre-implemented in starter files. Now mark this step as completed and head on to the next one."
+  - text: "Using Flexbox style the container which contains entire content of our app (Refer to instruction #2)."
+  - text: "Create a beautiful gradient text effect for our title using CSS linear gradient property."
+  - text: "Style the container which contains actual quote, author and button using Flexbox."
+  - text: "Apply styling to our button with some animations for transition between normal and hover state."

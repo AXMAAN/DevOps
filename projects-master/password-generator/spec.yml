@@ -1,0 +1,29 @@
+name: Password Generator
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/ankeshp03/password-generator
+type: frontend
+level: easy
+cover-image: https://github.com/ankeshp03/password-generator/blob/master/designs/mobile_view.png?raw=true
+short-description: A password generator that generates password based on combination of controls. This will test your HTML, CSS, and JavaScript skills. All the designs are available inside the project.
+long-description: |
+    Your challenge is to build out a Password Generator App and get it look and function as close to the design as possible.
+
+    This project focuses HTML, CSS & JS.
+
+    You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    Your users should be able to:
+
+    - Generate a password as per the selected controls
+
+    - Copy the generated password to clipboard
+
+    You can go through the `Readme.md` to see more details regarding the project and the designs folder to see the preview images of the project for desktop and mobile viewports.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

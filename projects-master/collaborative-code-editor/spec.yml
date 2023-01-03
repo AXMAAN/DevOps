@@ -1,0 +1,27 @@
+name: Collaborative code editor
+tags: ["ReactJS",'Socket.io']
+starter-files: https://github.com/oneknucklehead/collaborative-editor
+type: fullstack
+level: hard
+cover-image: https://raw.githubusercontent.com/oneknucklehead/collaborative-editor/main/designs/Cover%20Image.png
+short-description: Coding an online collaborative code editor using React and Socket.io
+long-description: |
+    This challenge requires you to build a collaborative code editor and make sure to make it look as close as possible to the designs given in the starter files. 
+
+    This project mostly focuses on your React, CSS, and socket programming skills. In addition to that, you are allowed to make use of any tools you think would help you in completing the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    In this project, you app should consist of 
+
+    - Creating a room or joining a room already created by someone else
+
+    - Creating a websocket connection between the the editors
+
+    Your application should allow people to create rooms and allow other people to join the room and edit a piece of code collaboratively.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true
