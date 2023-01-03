@@ -1,0 +1,34 @@
+name: Personal Portfolio Website
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/ravi0900/portfolio-website-codedamn
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/ravi0900/portfolio-website-codedamn/master/assets/design/preview2.png
+short-description: Your challenge to make a Personal portfolio Website to showcase your skill as shown in preview and demo using html, css, javscript.
+long-description: |
+  This is a Personal Portfolio Website Project build using html, css and javascript.
+
+  In this project, you're supposed to build a personal portfolio website using html/css and javascript. In this project you will learn the following things:
+  
+  - Making A Beautiful Portfolio page using HTMl, CSS and JavaScript.
+
+  - Practice Good Amount of HTMl tags.
+
+  - Practice CSS in more details.
+  
+  - Making a fixed Navbar using Html, bootstrap and javascript.
+  
+  - Loop Text Typing Animation using javascript.
+
+  - Good Styling using CSS Like Cursor Hover effect, color change.
+
+  - Building a responsive website using CSS.
+
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

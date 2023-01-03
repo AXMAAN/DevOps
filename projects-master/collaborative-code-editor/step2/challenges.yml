@@ -1,0 +1,7 @@
+name: 'Building the compiler screen'
+stepId: step2
+stepBreakDown:
+    - text: Compiler screen should look like the design given 
+    - text: Implementation of the copy room id button should be done.
+    - text: There should be a notification, alert, or a toast claiming that the room ID was copied successfully.
+

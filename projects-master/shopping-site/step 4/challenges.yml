@@ -1,0 +1,6 @@
+name: "Creating footer component"
+stepId: step4
+stepBreakDown:
+  - text: "Create a `<div>` element with the class 'footer'."
+  - text: "populate the footer div"
+  - text: "added styles for class 'footer' according to design"

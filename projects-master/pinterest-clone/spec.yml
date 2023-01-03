@@ -1,0 +1,19 @@
+name: Pinterest Clone
+tags: ["Node.js", "GraphQL"]
+starter-files: https://github.com/codedamn-projects/codedamn-pinterest-clone
+type: backend
+level: easy
+cover-image: https://github.com/codedamn-projects/codedamn-pinterest-clone/raw/main/images/pinterestClone.png
+short-description: Practice the basics of creating a GraphQL API (CRUD, Project Structure, Best Practices...).
+long-description: |
+  There are many good ideas of projects used with the main purpose of learning a technology. A good side project is always one that isn't too complicated, but allows you to learn the basic syntax of the technologies used and a bit of how to structure an application with those technologies. A Pinterest Clone is a good example of that.
+
+
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: backend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

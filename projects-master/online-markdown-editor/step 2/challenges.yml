@@ -1,0 +1,6 @@
+name: 'Preview the text user inputs unformatted '
+stepId: step2
+stepBreakDown:
+  - text: 'Get/Select the html elements in js'
+  - text: 'Add event listener to textarea'
+  - text: 'Preview Side displays whatever the user types in'

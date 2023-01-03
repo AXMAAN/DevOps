@@ -1,0 +1,7 @@
+name: 'Setting up the bird'
+stepId: step2
+stepBreakDown:
+  - text: "Provide the bird an appropriate size"
+  - text: "Position the bird absolutely to the game container"
+  - text: "Ensure the bird is initially at the center of the game container"
+

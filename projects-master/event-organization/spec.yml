@@ -1,0 +1,18 @@
+name: Event Organization Smart Contract
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/codedamn-projects/EventProject
+type: web3
+level: medium
+cover-image: https://raw.githubusercontent.com/kshitijofficial/EventProject/main/asset/event.png
+short-description: In this project we will organize an event using the solidity smart contract.
+long-description: |
+  This a event organizing project. In this project there 
+  are two entities first the organizer and the second the attendee. The organizer will organize
+  the event and attendee will be the person who will be attending the event by buying the ticket for the event. An organizer will be able
+  to create multiple events and the attendee can also buy multiple tickets for the multiple events.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1

@@ -1,0 +1,8 @@
+name: "Creating Navbar"
+stepId: step1
+stepBreakDown:
+  - text: "Make sure that the boilerplate code for the HTML file is syntactically correct."
+  - text: "Create a `<div>` element with the class 'navbar'."
+  - text: "populate the navbar "
+  - text: "add a div for hamburger with class 'nav-switch'"
+  - text: "add a div for backdrop with class 'backdrop'"

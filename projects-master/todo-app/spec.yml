@@ -1,0 +1,32 @@
+name: Todo App
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/codedamn-projects/todo-app
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/todo-app/main/designs/Home%20%5BDesktop%5D.jpg 
+short-description: Build a Todo App clone using the assets we provide and test your HTML, CSS and JavaScript skills 
+long-description: |
+  Your challenge is to build out a Todo App clone & get it looking as close to the design as possible.
+  
+  This project focuses on HTML & CSS & JS. Javascript is used for making the website functional.
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  Your users should be able to:
+  
+  - Add a Todo
+  
+  - Mark Todo as done (strike through)
+  
+  - Delete Todo
+  
+  - Additionally, you can also persist a users Todo in local storage so that his Todo's exist even after a page refresh.
+  
+  All the best
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

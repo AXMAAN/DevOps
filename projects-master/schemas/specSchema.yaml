@@ -1,0 +1,43 @@
+name:
+    required: true
+    type: string
+tags:
+    required: true
+    type: list
+starter-files:
+    required: true
+    type: string
+type:
+    required: true
+    type: string
+level:
+    required: true
+    type: string
+cover-image:
+    required: true
+    type: string
+short-description:
+    required: true
+    type: string
+long-description:
+    required: true
+    type: string
+codedamn:
+    required: true
+    type: dict
+    schema:
+        helper-learning-path:
+            required: true
+            type: string
+        show-community-banner:
+            required: true
+            type: boolean
+        playground-layout:
+            required: true
+            type: string
+        playground-image:
+            required: true
+            type: string
+        guided:
+            required: false
+            type: boolean

@@ -1,0 +1,5 @@
+name: "Adding Final Touches"
+stepId: step4
+stepBreakDown:
+  - text: "Add Icons using Material UI for Logo, Add and Delete Button."
+  - text: "Use conditional Rendering to expand the `CreateArea` component."

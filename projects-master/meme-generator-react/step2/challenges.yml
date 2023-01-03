@@ -1,0 +1,8 @@
+name: 'Get Random Meme Image Template form Imgflip API using FetchAPI on clicking "Get New Meme" Button'
+stepId: step2
+stepBreakDown:
+    - text: 'Add API Endpoint provided in the instructions for fetching memes data'
+    - text: 'Choose a random image URL from the data got from fetching memes data'
+    - text: 'Create a new state named "imageURL" with an empty string as default'
+    - text: 'When "Get New Meme" is clicked call the getNewMemeImage function'
+    - text: 'Update the "imageURL" state to that randomly chosen Meme Image Template URL' 

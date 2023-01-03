@@ -1,0 +1,7 @@
+name: 'Handling state changes in the frontend'
+stepId: step4
+stepBreakDown:
+    - text: Handle all the event changes emitted by the backend in the frontend for example joining a room, leaving the room, syncing the code etc. 
+    - text: Reroute the user to the landing page when the user clicks on the leave button
+
+

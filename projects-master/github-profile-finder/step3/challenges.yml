@@ -1,0 +1,7 @@
+name: "Make changes in App.js"
+stepId: step4
+stepBreakDown:
+  - text: "Import useDispatch, useSelector from react-redux "
+  - text: "Import both action from githubSlices.js"
+  - text: "Use useState method to setuser"
+  - text: "useDispatch method to show repos and profile"

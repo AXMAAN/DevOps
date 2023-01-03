@@ -1,0 +1,7 @@
+name: "Fetching data"
+stepId: step4
+stepBreakDown:
+  - text: "Create Account on themoviedb and SignUp/Login with your username and password."
+  - text: "Make sure to verify your email to get API_KEY."
+  - text: "API Documentation is available at https://developers.themoviedb.org/3/getting-started/introduction"
+  - text: "Get your API_KEY from the website by creating new app and fill the details that they want."

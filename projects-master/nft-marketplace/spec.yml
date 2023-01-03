@@ -1,0 +1,26 @@
+name: NFT Marketplace
+tags: ["Web3", "Solidity", "React"]
+starter-files: https://github.com/codedamn-projects/nft-marketplace-project
+type: web3
+level: hard
+cover-image: https://raw.githubusercontent.com/navyansh007/nft-marketplace-project/master/UI%20Reference.png
+short-description: Through this project, you will learn fundamental concepts of Blockchain and Web3 by making an NFT Marketplace, where users can mint NFTs.
+long-description: |
+  The task is to complete an ERC721 token (for NFTs) smart contract and make a UI to communicate with completed Smart Contract.
+  
+  - The basic boilerplate code is given for both- frontend and ERC721 smart contract. 
+
+  - You need to implement basic functions in the smart contract to make the DApp work. 
+
+  - You also need to implement a basic frontend using which user would be able to communicate with your smart contract. You can choose to use a UI Library for making a basic UI or make everything from scratch
+  
+  - For more information, you can have a look at `readme.md` file, which will help you to get more clarity on this project.
+  
+  Don't forget to share your submissions with other peers to get feedback that will help you to further improve this project.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1
+  guided: true

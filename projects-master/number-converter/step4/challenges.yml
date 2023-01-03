@@ -1,0 +1,10 @@
+name: "Start defining the functionalities"
+stepId: stp4
+stepBreakDown:
+  - text: "Complete the function definition of `dec_to_bin(N)` function to convert a number from decimal to binary number."
+  - text: "Complete the function definition of `bin_to_dec(N)` function to convert a number from binary to decimal number."
+  - text: "Complete the function definition of `dec_to_oct(N)` function to convert a number from decimal to octal number."
+  - text: "Complete the function definition of `oct_to_dec(N)` function to convert a number from octal to decimal number."
+  - text: "Complete the function definition of `dec_to_hex(N)` function to convert a number from decimal to hexadecimal number."
+  - text: "Complete the function definition of `hex_to_dec(N)` function to convert a number from hexadecimal to decimal number."
+  

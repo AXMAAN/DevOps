@@ -1,0 +1,35 @@
+name: Quiz App
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/codedamn-projects/quiz-app
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/quiz-app/master/assets/desktop-design.jpg
+short-description: An interactive, timed JavaScript quiz that stores a high score leaderboard in local storage.
+long-description: |
+  Your challenge is to build out a Quiz App and get it look as close to the design as possible.
+  
+  This project focuses HTML, CSS & JS. Javascript is really important in this since it allows the app to be functional by validating the correct answer
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  Your users should be able to:
+  
+  - View Highscores
+  
+  - Start and Complete the quiz with the functional timer
+  
+  - When questions of the quiz are completed the score is set to the remaining seconds of the timer.
+  
+  - The score should be added the to high scores in local storage
+
+  - The high scores should be sorted in descending order by score
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.  
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

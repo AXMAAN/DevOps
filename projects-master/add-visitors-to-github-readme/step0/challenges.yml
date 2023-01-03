@@ -1,0 +1,6 @@
+name: "Create a dummy README.md file"
+stepId: step0
+stepBreakDown:
+  - text: "Add heading to the README.md file"
+  - text: "Create a section for all the visitor's image tag"
+  - text: "Create a link word (button) to leave the user to issue page with title 'Add My Name'"

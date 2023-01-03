@@ -1,0 +1,33 @@
+name: Meetup App
+tags: ["Next.js", "Nodejs", "MongoDB", "React"]
+starter-files: https://github.com/ritik3131/next-12-playground-codedamn
+type: fullstack
+level: medium
+cover-image: https://raw.githubusercontent.com/ritik3131/next-12-playground-codedamn/master/public/meetup-landing-page.png
+short-description: Create a social networking site that allow users to search and decide places for meetups based on interests
+long-description: |
+  Your challenge is to build out a Meetup app and get it to look as close to the design as possible.
+
+  This project focuses on your  Next.js and backend skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  This project should have the listed functionalities
+
+  - User can login with google and Facebook oauth
+
+  - Full authorization to api and other nextjs pages should be added.
+
+  - User can add meetups places ,can delete,update ..etc.
+
+  - Add database(Mongodb to the app) with proper schema's.
+
+  - For backend api,severSide rending and static rending should be added
+
+  Cover all the concept of nextjs such as pre-rending(server side and static).
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: fullstack
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true

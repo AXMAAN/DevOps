@@ -1,0 +1,33 @@
+name: Trello Clone
+tags: ["Next.js", "TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/trello-clone
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/codedamn-projects/trello-clone/master/designs/Home.png
+short-description: Create a Trello Clone with functionality to move cards between Lists
+long-description: |
+  Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+
+  This project focuses on your React and CSS skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  In this project you have to create
+  
+  - a functional login,sign up and logout pages
+  
+  - create boards page where users can view the creator list of boards
+  
+  - ability to see the boards along with their lists and cards
+  
+  - ability to drag and drop cards between the lists
+  
+  - Create new boards,lists and cards
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html

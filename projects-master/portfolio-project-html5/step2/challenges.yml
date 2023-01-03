@@ -1,0 +1,7 @@
+name: 'Styling our home page.'
+stepId: step2
+stepBreakDown:
+    - text: 'nav items should be horizontaly aligned.'
+    - text: 'main part should look like card and centered.'
+    - text: 'the card should point to home icon'
+    - text: 'index.html should be looking same as design given.'

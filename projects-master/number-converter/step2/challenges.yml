@@ -1,0 +1,7 @@
+name: "Adding content"
+stepId: step2
+stepBreakDown:
+  - text: "Create a `<p>` tag within `sec1` and `sec2` class each following instruction 1"
+  - text: "Create an `<input>` tag of `type='text'` within `sec1` and `sec2` class each following instruction 2"
+  - text: "Create a `Dropdown` list within `sec1` and `sec2` class each following instruction 3"
+  - text: "Create three `buttons` within `sec3` class following instruction 4"

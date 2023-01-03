@@ -1,0 +1,5 @@
+name: 'Creating html files for all pages.'
+stepId: step0
+stepBreakDown:
+    - text: 'You should have a folder named public.'
+    - text: 'public folder should consist work-tab.html and contact-tab.html.'

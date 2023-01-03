@@ -1,0 +1,4 @@
+name: 'Collision detection'
+stepId: step9
+stepBreakDown:
+  - text: "If the bird hits any of the pipes, the game is over"

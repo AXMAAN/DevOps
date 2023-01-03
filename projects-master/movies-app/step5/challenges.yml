@@ -1,0 +1,8 @@
+name: "Manipulating data part 1"
+stepId: step5
+stepBreakDown:
+  - text: "Use Strick mode to your code which help to find the error"
+  - text: "Create Some `const` (Variables) for fetch data from API. Create `API_URL, IMG_PATH, SEARCH_URL`. as per giving in instruction or use `https://api.themoviedb.org/3` and refer to instruction"
+  - text: "Create a function getMovies which will fetch movies from the API."
+  - text: "The showMovies Function will show the movies details as card which we have created in html `index.html` files"
+  - text: "Create getOverviewRating function for getting color as per rating which we will manipulate it in our rating span content"

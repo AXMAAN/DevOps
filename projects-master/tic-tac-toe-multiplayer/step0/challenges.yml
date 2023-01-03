@@ -1,0 +1,7 @@
+name: 'Building a landing page'
+stepId: step0
+stepBreakDown:
+    - text: Landing page should look according to design
+    - text: 'There should be two buttons: Start New and Join Game'
+    - text: Start new should open a form to enter users' name
+    - text: Join game should open a form to enter users' name and an invite code

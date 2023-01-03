@@ -1,0 +1,7 @@
+name: "Adding Heading Tags"
+stepId: step1
+stepBreakDown:
+  - text: "Give heading 'Create new account' using <h> tag"
+  - text: "Give heading 'It's quick and easy' using another <h> tag"
+  - text: "Specify the h1/h2/h3... depending on the size of the heading"
+  - text: "Use <hr> tag to give a horizontal line after heading"

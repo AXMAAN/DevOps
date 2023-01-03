@@ -1,0 +1,7 @@
+name: 'Build the Navbar Component for the Meme Generator Web Application'
+stepId: step0
+stepBreakDown:
+    - text: 'There must be one <nav> tag'
+    - text: 'There must be an <img /> tag having image source as header-logo.png in the navbar'
+    - text: 'There must be one <h2> tag within the <nav>...</nav> tags with project name as text'
+    - text: 'There must be one <h4> tag within the <nav>...</nav> tags with text as "React Project"'

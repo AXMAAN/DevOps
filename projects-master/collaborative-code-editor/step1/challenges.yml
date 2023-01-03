@@ -1,0 +1,7 @@
+name: 'Generating random room code'
+stepId: step1
+stepBreakDown:
+    - text: Random invite code should be generated on clicking the "own room" link in the frontend. 
+    - text: This code should be autofilled in the "Enter Room ID" input field on clicking the link.
+    - text: There should be a notification, alert, or a toast claiming that the room was created successfully.
+

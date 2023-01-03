@@ -1,0 +1,6 @@
+name: "Creating main component"
+stepId: step3
+stepBreakDown:
+  - text: "Create a `<div>` element with the class 'content'."
+  - text: "populate the content div"
+  - text: "added styles for class 'content'"

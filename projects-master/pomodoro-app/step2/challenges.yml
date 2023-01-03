@@ -1,0 +1,7 @@
+name: 'A Pomodoro'
+stepId: step2
+stepBreakDown:
+- text: 'The countdown should start at 25:00 when the start button is clicked'
+- text: 'The button must be removed once the timer starts'
+- text: 'The timer should stop automatically at 0:00 and the start button should be shown again'
+- text: 'Once the timer ends, it should be reset to 25:00'

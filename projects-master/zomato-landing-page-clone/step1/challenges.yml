@@ -1,0 +1,5 @@
+name: "Adding Background Image and Search Bar"
+stepId: step1
+stepBreakDown:
+  - text: "Add the background image to the header section"
+  - text: "Background image should span across the entire viewport"

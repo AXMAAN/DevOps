@@ -1,0 +1,6 @@
+name: "Adding password generator functionality"
+stepId: step2
+stepBreakDown:
+    - text: "Add the script for the password generation."
+    - text: "Ensure that the password generated contains atleast one character of all the selected controls."
+    - text: "The generated password should be of the length as mentioned in the `Password Strength`."

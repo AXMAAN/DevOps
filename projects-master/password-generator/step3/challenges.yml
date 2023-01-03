@@ -1,0 +1,5 @@
+name: "Adding copy to clipboard functionality"
+stepId: step3
+stepBreakDown:
+    - text: "Add the script to copy the generated passsword to the clipboard."
+    - text: "Show `Password copied to clipboard!` as an alert, once the password is copied."

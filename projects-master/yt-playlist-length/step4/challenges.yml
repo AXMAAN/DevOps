@@ -1,0 +1,4 @@
+name: "Get Length of the Playlist (1)"
+stepId: step4
+stepBreakDown:
+  - text: "Figured out how to get length"

@@ -1,0 +1,7 @@
+name: "Creating Elements and tags"
+stepId: step0
+stepBreakDown:
+  - text: "Add the heading and the description of the page"
+  - text: "Add the form with email address and sign up button"
+  - text: "Add the social/contact links with icons"
+  - text: "Add the footer"

@@ -1,0 +1,18 @@
+name: ERC20 Token
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/codedamn-projects/erc20Project
+type: web3
+level: medium
+cover-image: https://raw.githubusercontent.com/kshitijofficial/erc20Project/main/erc.png
+short-description: This project will be a perfect test of how to create your own ERC20 Token from scratch.
+long-description: |
+  The task is to create an ERC20 token smart contract.
+  An ERC20 interface will be given to you and you have to use that interface as blueprint for your smart contract.
+  Also remember to create the migration script for it.
+  Don't forget to share your submissions with the community to get feedback.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1

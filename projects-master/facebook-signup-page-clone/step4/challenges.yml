@@ -1,0 +1,7 @@
+name: "Final touch / Styling"
+stepId: step4
+stepBreakDown:
+  - text: "Center all the elements using flexbox property"
+  - text: "Give padding to all the inputs"
+  - text: "Make the Borders rounded"
+  - text: "Give shadow to the form-box"

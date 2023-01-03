@@ -1,0 +1,7 @@
+name: 'Make a frontend for how to show the list of meetups'
+stepId: step1
+stepBreakDown:
+    - text: 'Make sure that list of meetups is shown on the landing page is reachable from homepage via a link'
+    - text: 'Make a dummy meetup object.'
+    - text: 'Make a Card Component for a meetup.'
+    - text: 'There should be proper UI'

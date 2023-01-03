@@ -1,0 +1,6 @@
+name: "Make the page responsive"
+stepId: step3
+stepBreakDown:
+  - text: "make the page's Scroll responsive and dynamic"
+  - text: "Make custom js scipt for navbar to fix while scrolling"
+  - text: "Page should be responsive when resizing"

@@ -1,0 +1,10 @@
+name: "Catch the issue in add-my-name.yml"
+stepId: step1
+stepBreakDown:
+  - text: "Add an trigger 'on issue-created'"
+  - text: "Add a condition to verify that the title is 'Add My Name'"
+  - text: "Create a nodejs function to update user's username in data.json file"
+  - text: "Create a nodejs function to render new README.md file based on the data of data.json"
+  - text: "Add a step to update `data.json`"
+  - text: "Add a step to render new `README.md`"
+  - text: "Close the issue"

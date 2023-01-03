@@ -1,0 +1,6 @@
+name: 'Adding a Button named "Save Meme" to download the generated Meme'
+stepId: step4
+stepBreakDown:
+    - text: 'Add a button named "Save Meme" below the Meme Image Component built in Step 3'
+    - text: 'Add the functionality of downloading the Meme Image Component Div as a jpg image using the html2canvas library'
+    - text: 'Style the application according to your interest'

@@ -1,0 +1,31 @@
+name: Calculator clone
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/codedamn-projects/calculator-clone 
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/calculator-clone/main/assets/desktop-design.jpg
+short-description: Build Calculator clone using the assets we provide and test your HTML, CSS and JavaScript skills.
+long-description: |
+  Your challenge is to build out a calculator clone get it looking as close to the design as possible.
+  
+  This project focuses HTML, CSS & JS. Javascript is really important in this since it allows the app to be functional
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  Your users should be able to:
+  
+  - Perform all the arithmetic operations as seen in the screenshot
+  
+  - Clear input
+  
+  - Delete input
+  
+  All the best"
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

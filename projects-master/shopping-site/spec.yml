@@ -1,0 +1,34 @@
+name: Simple shopping website landing page
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/Saurav-Singh-Rauthan/shopping-site-starter
+type: frontend
+level: easy
+cover-image: https://github.com/Saurav-Singh-Rauthan/shopping-site/raw/main/images/Annotation%202021-08-14%20161237.jpg
+short-description: A simple landing page for a shopping website (NIKE).
+long-description: |
+  Your challenge is to build out a landing page for a shopping website (Nike) and get it look as close to the design as possible.
+  
+  This project focuses HTML, CSS & JS. Javascript is used for showing and hiding the navbar on mobile view.
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  This would invovle:
+  
+  - Creating landing page
+  
+  - Creating footer
+  
+  - Creating Navbaar for desktop and mobile view
+
+  - Making website responsive
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.  
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

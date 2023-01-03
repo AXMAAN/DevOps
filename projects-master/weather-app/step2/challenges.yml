@@ -1,0 +1,10 @@
+name: "Coloring elements"
+stepId: step2
+stepBreakDown:
+    - text: "Add a class `table-dark` to the `<th>` element with the ID 'temperature'."
+    - text: "Add a class `table-success` to the `<th>` element having text 'Min'."
+    - text: "Add a class `table-danger` to the `<th>` element having text 'Max'."
+    - text: "Add a class `text-success` to the first `<td>` element having text '°C'."
+    - text: "Add a class `text-danger` to the second `<td>` element having text '°C'."
+    - text: "Add a class `text-primary` to the `<div>` element having class 'card-title'."
+    - text: "Add a class `text-info` to the `<h5>` element."

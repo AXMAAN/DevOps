@@ -1,0 +1,8 @@
+name: 'Converting the Markdown to HTML '
+stepId: step4
+stepBreakDown:
+  - text: 'convert the headings (h1 & h2)'
+  - text: 'convert the text (bold,highlights & italics)'
+  - text: 'convert the hyperlinks'
+  - text: 'convert the list (unordered & ordered)'
+  - text: 'Preview side should have HTML preview of whatever markdown is written on text editor'

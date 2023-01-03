@@ -1,0 +1,28 @@
+name: LinkedIn Clone
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/codedamn-projects/linked-in-nextjs-clone
+type: fullstack
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/linked-in-nextjs-clone/master/designs/Linked%20In%20Clone%20Home%20%5BDesktop%5D.png
+short-description: Build the complete LinkedIn application UI, API, and the Database
+long-description: |
+    Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+  
+    This project focuses on Next.js,Node.js & MongoDB but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    In this project
+    
+    - You have to make the user interface based on the designs provided
+    
+    - You should be also able to make an API to connect the to you application and perform database read and write operations
+
+
+    You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

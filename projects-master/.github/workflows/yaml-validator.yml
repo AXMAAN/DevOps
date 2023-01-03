@@ -1,0 +1,15 @@
+name: yaml-validator
+on: [push, pull_request]
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: navikt/yaml-validator@v3
+        with:
+          schema_path: schemas/specSchema.yaml
+          document_path: ./**/spec.yml
+      - uses: navikt/yaml-validator@v3
+        with:
+          schema_path: schemas/stepChallengesSchema.yaml
+          document_path: ./**/challenges.yml

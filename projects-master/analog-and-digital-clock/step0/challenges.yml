@@ -1,0 +1,5 @@
+name: "Linking Files and Creating Elements"
+stepId: step0
+stepBreakDown:
+  - text: "Link CSS and JS files"
+  - text: "Create structure for Analog and Digital clock"

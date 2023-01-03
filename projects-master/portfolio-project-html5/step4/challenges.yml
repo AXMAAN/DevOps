@@ -1,0 +1,7 @@
+name: 'Styling our contact page.'
+stepId: step4
+stepBreakDown:
+    - text: 'form should looking nice.'
+    - text: 'form should be in center.'
+    - text: 'the form part should point to contact icon.'
+    - text: 'contact-tab.html should be looking same as design given.'

@@ -1,0 +1,26 @@
+name: Custom Wordle
+tags: ["Next.js","TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/Custom-Wordle-Clone
+type: fullstack
+level: hard
+cover-image: https://raw.githubusercontent.com/codedamn-projects/Custom-Wordle-Clone/master/designs/REACT%20%5BDESKTOP%5D.png 
+short-description: Build a custom wordle clone. Share your own words to solve
+long-description: |
+  Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+
+  This project focuses on your Next.js skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  The custom wordle clone should be able 
+  
+  - generate random words for solving
+  
+  - store random words for solving
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: fullstack
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html

@@ -1,0 +1,7 @@
+name: "Make the page responsive"
+stepId: step2
+stepBreakDown:
+  - text: "Using API to generate memes."
+  - text: "Adding attribute like image source, author and title"
+  - text: "Adding eventlistener to wait for an event to occur"
+  - text: "Finally created the generate meme page"

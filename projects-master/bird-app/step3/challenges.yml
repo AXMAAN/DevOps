@@ -1,0 +1,10 @@
+name: 'Build a dashboard page at /dashboard'
+stepId: step3
+stepBreakDown:
+    - text: 'Make sure that after successful login, the user gets redirected to `/dashboard`'
+    - text: 'The dashboard feed logic should work as given in the instructions tab.'
+    - text: 'Whenever a user creates a new post, it is added into the `localStorage` key feed as an individual post.'
+    - text: 'All posts inside feed `localStorage` should be visible to everyone in random order who create an account and visits `/dashboard`'
+    - text: 'Only the post author should see the option to edit or delete the post.'
+    - text: 'Only the post author can edit and delete the post. Put proper checks in place.'
+    - text: 'Take design inspiration from assets folder, but you have to build the design + logic on your own.'

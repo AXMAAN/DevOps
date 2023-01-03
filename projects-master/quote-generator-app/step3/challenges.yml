@@ -1,0 +1,6 @@
+name: "Adding Functionality"
+stepId: step3
+stepBreakDown:
+  - text: "Grabbing html elements for basic DOM manipulation."
+  - text: "Attaching Event listner to button."
+  - text: "Getting quote from external API using fetch API."

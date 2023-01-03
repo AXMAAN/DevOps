@@ -1,0 +1,8 @@
+name: 'making contact page responsive.'
+stepId: step8
+stepBreakDown:
+    - text: 'remove the heading that says contact me.'
+    - text: 'every input field should be on its own line.' 
+    - text: 'padding should be balanced.'
+    - text: 'button should take up the full space.'
+    - text: 'arrow should still point to the contact/email icon.'

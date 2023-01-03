@@ -1,0 +1,6 @@
+name: "Get Length of the Playlist (3)"
+stepId: step6
+stepBreakDown:
+  - text: "Successfully converted the duration format"
+  - text: "Figured out the way to get total duration"
+  - text: "Added Custom range length Functionality"

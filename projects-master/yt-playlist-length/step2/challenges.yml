@@ -1,0 +1,6 @@
+name: "Get data from the API (1)"
+stepId: step2
+stepBreakDown:
+  - text: "Able to set up the .env file."
+  - text: "Able to figure out the url and the headers."
+  - text: "Got data from the API."

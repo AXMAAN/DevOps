@@ -1,0 +1,38 @@
+name: YouTube Playlist Length Calculator Project
+tags: ['HTML/CSS', 'JavaScript', 'Node.js', 'Express.js', 'EJS', 'YouTube Data API']
+starter-files: https://github.com/ssahibsingh/yt-playlist-project-starter-files
+type: backend
+level: medium
+cover-image: https://github.com/ssahibsingh/yt-playlist-project-starter-files/blob/main/cover-image.png?raw=true
+short-description: A YouTube Playlist Length Calculator made with the help of Node.js/Express.js. By using this you can calculate length of any youtube playlist.
+long-description: |
+    Your challenge is to build out this calculator by using YouTube Data API.
+
+    This project focuses on Node.js/Express.js functionality and there integration with external RESTful APIs. In this project, we also use EJS (Embedded JavaScript templating) for our frontend. But you can use any alternative of EJS or even you can use React.js as your frontend. 
+
+    You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    Your users should be able to:
+
+    - Calculate any YouTube Playlist Length.
+
+    - Get length over any range.
+
+    Tech Stack:
+    
+    - Node.js
+    - Express.js
+    - EJS
+    - YouTube Data API v3
+
+    The YouTube Data API is a RESTful API that allows you to access YouTube data, such as videos, playlists, and channels. You can find more information about the YouTube Data API [here](https://developers.google.com/youtube/v3/getting-started).
+
+    Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: backend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html #not sure what should be here
+    guided: true

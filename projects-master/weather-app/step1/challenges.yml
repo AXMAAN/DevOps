@@ -1,0 +1,6 @@
+name: "Adding Margins, Padding & Alignment"
+stepId: step1
+stepBreakDown:
+    - text: "Add `text-center` class to the `<div>` element with the ID 'weather-app'."
+    - text: "Add `mb-3` class to the `<h2>` element with text 'Weather App' as well as to `<div> element with the ID 'coordinates'."
+    - text: "Finally, add `p-4` class to the `<div>` element with the ID 'weather-app'."

@@ -1,0 +1,27 @@
+name: Movies App
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/codedamn-projects/movies-app
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/movies-app/master/designs/Homepage%20%5BDesktop%5D.png
+short-description: Movies app that fetches new movie data from API and offers search movies functionality.
+long-description: |
+  Your challenge is to build out this Movie landing page and get it looking as close to the design as possible.
+
+  This project focuses mostly on HTML, CSS, JS and APIs included for the mobile.
+
+  You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  # Your users should be able to:
+
+  - See New Movie which is sorted by rating and newest.
+
+  - User can also search the movie by there names.
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true

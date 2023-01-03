@@ -1,0 +1,23 @@
+name: Analog & Digital Clock
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/tiluckdave/acdc-boilerplate
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/tiluckdave/acdc-boilerplate/master/designs/cover.png
+short-description: A minimal Analog as well as Digital clock design made using HTML5/CSS3 and JavaScript.
+long-description: |
+  In this challenge, you are required to construct this analog & digital clock and ensure it looks as close to the design as possible.
+
+  You are supposed to use HTML and CSS to design this project. Use JavaScrit for DOM Manipulation and functioning of the clock.
+  
+  You will find the output design in `design/cover.png` and style guide in `README.md` file.
+
+  This is comparatively an easier project, Give it a go. Best of Luck!
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true

@@ -1,0 +1,7 @@
+name: "Creating Elements and tags"
+stepId: step0
+stepBreakDown:
+  - text: "Open up the index.html file"
+  - text: "Add a navbar <nav> and </li> tags inside it"
+  - text: "Add </a> tags with a proper href into </li> components"
+  - text: "Add the <footer/> tag and description in </p> tag"

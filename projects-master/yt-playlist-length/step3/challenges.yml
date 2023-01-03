@@ -1,0 +1,7 @@
+name: "Get data from the API (2)"
+stepId: step3
+stepBreakDown:
+  - text: "Able to extract Playlist ID from the the link."
+  - text: "Able to figure out the url and the headers."
+  - text: "Got data from the API."
+  - text: "Have gone through the data from the API."

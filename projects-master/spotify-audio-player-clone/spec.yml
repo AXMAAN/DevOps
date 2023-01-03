@@ -1,0 +1,35 @@
+name: Spotify Audio Player Clone
+tags: ["Next.js", "TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/spotify-audio-player-clone
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/codedamn-projects/spotify-audio-player-clone/master/designs/Home%20%5BDesktop%5D.png
+short-description: Building a functional audio player with shuffle and play queue functionalities
+long-description: |
+  Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+
+  This project focuses on your Next.js and tailwindcss skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  You have to implement a functional audio player similar to spotify where a user can  play, pause, shuffle and repeat functionality. The users can also be able to view the songs Queue and playlists as well. The main intention of the project is not the user interface but the functionality to build an audio player.
+  
+  Your projects should have the following functionalities 
+  
+  - playing songs on clicking on them
+  
+  - ability to move between songs (forward and backward)
+  
+  - ability to change the volume
+  
+  - ability to shuffle the songs
+  
+  - ability to view the queue 
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html

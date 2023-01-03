@@ -1,0 +1,41 @@
+name: Simple Weather App
+tags: ["React"]
+starter-files: https://github.com/Athi223/codedamn-weather-app-starter
+type: frontend
+level: medium
+cover-image: https://github.com/Athi223/codedamn-weather-app-starter/blob/master/public/cover-image.png?raw=true
+short-description: A simple weather app built with React that displays the current weather and a 7-day forecast for a given coordinates.
+long-description: |
+    Your challenge is to build out this Weather App and get it looking as close to the design as possible.
+
+    Prerequisites:
+
+    - You should have a basic understanding of HTML, its tags, their attributes and such.
+
+    - A basic knowledge of CSS and Javascript is also required.
+
+    This project focuses on various concepts:
+
+    - ReactJS and two of its basic hooks, useState and useEffect.
+
+    - Fetching data from an API (Free and open-sourced Open-Metro API, which doesn't require any API key).
+
+    - Basic styling using Bootstrap and CSS.
+
+    Your users should be able to:
+
+    - View today's weather and 7 day forecast for given coordinates
+
+    - View minimum and maximum temperature for each day
+
+    The `README.md` file will provide further details about the project.
+
+    Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

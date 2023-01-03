@@ -1,0 +1,6 @@
+name: 'Build a login page at /login'
+stepId: step2
+stepBreakDown:
+    - text: 'Make sure that /login page is reachable from homepage via a link'
+    - text: 'When a user logs in, you should iterate on this key and figure out if allUsers contains the user. If yes, check if username and password matches. If they match, redirect the user to /dashboard screen.'
+    - text: "Store logged in user's username inside `localStorage` too. You may use `loggedIn` as the key and the username of the user logged in as the value. This will later be used by `/dashboard` screen."

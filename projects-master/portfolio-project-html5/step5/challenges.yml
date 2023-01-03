@@ -1,0 +1,7 @@
+name: 'Giving Functionality.'
+stepId: step5
+stepBreakDown:
+    - text: 'clicking home icon should take you to the main or index.html.'
+    - text: 'clicking folder like icon should take you to the work or work-tab.html.'
+    - text: 'clicking contact icon should take you to the contact or contact-tab.html.'
+    - text: 'clicking twitter icon should take you again to the main or index.html as its just dummy.'

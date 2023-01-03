@@ -1,0 +1,7 @@
+name: "Making the Analog Clock work"
+stepId: step2
+stepBreakDown:
+  - text: "Select the clock hands in the script.js file"
+  - text: "Create a SetInterval method with an arrow function and re call it every second."
+  - text: "Use Date object to get the current time"
+  - text: "Transform hands of the clock (hint: rotate on the Z axis)"

@@ -1,0 +1,5 @@
+name: "Getting Started"
+stepId: step0
+stepBreakDown:
+  - text: "Make sure that the boilerplate code for the HTML file is syntactically correct."
+  - text: "Use a good font from Google Font API"

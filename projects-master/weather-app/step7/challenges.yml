@@ -1,0 +1,4 @@
+name: "Using Browser Geolocation API"
+stepId: step7
+stepBreakDown:
+    - text: "Add the source code as provided in instructions"

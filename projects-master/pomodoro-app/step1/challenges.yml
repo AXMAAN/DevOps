@@ -1,0 +1,8 @@
+name: 'The UI'
+stepId: step1
+stepBreakDown:
+- text: 'Give the screen a background of `tomato`'
+- text: 'Create a status heading with "POMODORO" as the text'
+- text: 'Create an element showing the time (with 25:00 for now)'
+- text: 'Create a start button with a hover effect'
+- text: 'Place all the content in a small (50% of the screen) box in the center'

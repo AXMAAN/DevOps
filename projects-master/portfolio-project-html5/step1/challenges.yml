@@ -1,0 +1,7 @@
+name: 'Writing html files in all pages.'
+stepId: step1
+stepBreakDown:
+    - text: 'index.html should have navbar, profile card and footer.'
+    - text: 'work-tab.html should contain photos.'
+    - text: 'contact-tab.html should contain a form.'
+    - text: 'All files should have done with the html stuff.'

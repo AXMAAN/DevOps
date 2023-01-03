@@ -1,0 +1,6 @@
+name: 'A Break'
+stepId: step3
+stepBreakDown:
+- text: 'After every pomodoro, there must be a 5 minute break, then a pomodoro again, and so on.'
+- text: 'The label at the top should change to indicate whether it is a pomodoro or a break'
+- text: 'The start button must never be shown again after it is pressed'

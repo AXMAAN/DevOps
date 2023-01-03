@@ -1,0 +1,7 @@
+name: 'Adding Styles '
+stepId: step1
+stepBreakDown:
+  - text: 'The theme changing button appears on the right side of screen'
+  - text: 'Text Editor & Preview displays side by side'
+  - text: 'Textarea has no borders or outlines'
+  - text: 'Add styles for Markdown Preview'

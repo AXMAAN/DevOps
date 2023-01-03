@@ -1,0 +1,24 @@
+name: Meme Generator [React]
+tags: ["HTML/CSS", "JavaScript", "React"]
+starter-files: https://github.com/codedamn-projects/meme-generator-react
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/codedamn-projects/meme-generator-react/main/assets/cover-image.png
+short-description: A working meme generator app based on React, CSS, FetchAPI and html2canvas.
+long-description: |
+    In this project, you're supposed to build a fully functional essential meme generator website. This project includes the following features:
+
+    - Large number of Meme Image Templates are fetched dynamically using the FetchAPI via Imgflip API.
+    - User can add custom top and bottom text to the meme Image Template
+    - Forms having controlled inputs using React useState Hook
+    - Real-Time addition of top and bottom text as you write in the input boxes
+    - Saving the finally generated meme in the form of a .jpg file in your local storage
+
+    Once you start the project, a detailed breakdown is available in the README.md file. All the best!
+
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

@@ -1,0 +1,5 @@
+name: "Adding href and tag description"
+stepId: step1
+stepBreakDown:
+  - text: "Add classes for </li> tags that were added in the previous step in the navbar"
+  - text: "Write description for </div> tags in </p> tag"

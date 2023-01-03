@@ -1,0 +1,7 @@
+name: "Create Clock component"
+stepId: step2
+stepBreakDown:
+  - text: "Create a Clock component in components folder."
+  - text: "Show static date and time and greeting message"
+  - text: "Create a toggle button and change its label and icon on click"
+  - text: "Style the component. You can import required svg files from assets folder."

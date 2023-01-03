@@ -1,0 +1,9 @@
+name: "Conclude the styling"
+stepId: step3
+stepBreakDown:
+  - text: "Create a border in between `sec1` and `sec2`."
+  - text: "Set the font size of the `<p>` tag."
+  - text: "Set the padding and font size of `<input>` and `<select>` tag."
+  - text: "Give styling to all the buttons following instruction 4."
+  - text: "Select all the buttons and set the border radius of each button following instruction 5."
+  - text: "Set the background color of all buttons."

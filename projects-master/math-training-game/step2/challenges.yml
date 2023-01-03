@@ -1,0 +1,11 @@
+name: "Styling the Game"
+stepId: step2
+stepBreakDown:
+  - text: "Add style to the `.box` element following instruction 1."
+  - text: "Add style to the `.sec1` element following instruction 2."
+  - text: "Add style to the `.instruction` element following instruction 3."
+  - text: "Add style to the `#operand1` and `#operand2` element following instruction 4."
+  - text: "Add style to the `#operator` element following instruction 5."
+  - text: "Add style to the `.sec2` element following instruction 6."
+  - text: "Add style to the `#option1`, `#option2`, `#option3`, `#option4` element following instruction 7."
+  - text: "Add style to the `#msgbox` element following instruction 8."

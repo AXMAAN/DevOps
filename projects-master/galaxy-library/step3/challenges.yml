@@ -1,0 +1,6 @@
+name: 'Main Page'
+stepId: step2
+stepBreakDown:
+    - text: 'Cards are showing up on the main page'
+    - text: 'Data is being fetched from the API'
+    - text: 'Cards displays the correct information from api'

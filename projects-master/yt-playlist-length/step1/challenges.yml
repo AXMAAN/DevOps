@@ -1,0 +1,6 @@
+name: "YouTube Data API"
+stepId: step1
+stepBreakDown:
+  - text: "Created YouTube Data API Key."
+  - text: "Saved it somewhere to use it later."
+  - text: "Got YouTube Data API Overview."

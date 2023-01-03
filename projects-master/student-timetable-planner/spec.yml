@@ -1,0 +1,31 @@
+name: Student Time Table Planner
+tags: ["Next.js", "TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/student-timetable-planner
+type: fullstack
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/student-timetable-planner/master/assets/main%20image.png
+short-description: Make a planner application using Next.js and MongoDB
+long-description: |
+  Your challenge is to build out a Time Table Planner and get it to look as close to the design as possible.
+  
+  This project focuses on your Next.js,MongoDB and TailwindCSS but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  This project should have the following functionalities
+  
+  - A Student can register and login to his account
+  
+  - A student should be able to view the available courses and add them to their classes
+  
+  - A student should be able to withdraw from courses
+  
+  - A student should be able to view his time table (calendar view) based on their enrolled classes
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html

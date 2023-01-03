@@ -1,0 +1,9 @@
+name: "Creating the components"
+stepId: step1
+stepBreakDown:
+  - text: "Create a App.jsx component."
+  - text: "Create a Header.jsx component that renders a `<header>` element to show the Keeper App name in an `<h1>`."
+  - text: "Create a Footer.jsx component that renders a `<footer>` element to show a copyright message in a `<p>`."
+  - text: "Create a Note.jsx component to show a `<div>` element with a `<h1>` for a title, a <p> for the content and `<button>` for the delete function."
+  - text: "Create a CreateArea.jsx Component that renders a `<form>` with one `<input>` field for the title, one `<textarea>` component for the note and one button to add the note."
+  - text: "Analyze the `style.css` file to apply styling to your components."
