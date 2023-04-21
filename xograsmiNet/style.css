@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    display:flexbox;
+    background-color: black;
+}
+nav {
+    display:inline-block;
+    width:100px;
+    height: 50px;
+    background: rgb(255, 255, 255);
+    margin:15px 10px;
+    
+}
+
+nav ul li{
+    display: flex;
+    margin:15px 10px;;
+    justify-content: space-between;
+
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 46, 133);
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+   
+    
+    
+}
