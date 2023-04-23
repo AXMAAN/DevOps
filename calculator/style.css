@@ -1,0 +1,21 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: boder-box;
+}
+
+.container{
+width:100%;
+height: 100vh;
+background: #e3f9ff;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+.calculator{
+    background: #3a4452;
+    padding: 20px;
+    border-radius: 10px;
+}
