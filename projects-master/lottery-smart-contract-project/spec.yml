@@ -1,0 +1,14 @@
+name: Lottery Smart Contract
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/codedamn-projects/LotteryProject
+type: web3
+level: easy
+cover-image: https://raw.githubusercontent.com/kshitijofficial/LotteryProject/main/asset/Lottery.png
+short-description: This project will be a perfect test of your solidity skills.
+long-description: You have to create a lottery smart contract.In this we will have two entities->Manager - It will deploy the smart contract.Players - These will participate in the lottery. In order to participate in the lottery the players must exactly pay 0.1 ether to the contract balance. The lottery winner will be picked randomly by the manger only.And whosoever be the winner. The entire contract balance ether will be transferred to the winner's account. Note - There must be atleast three players for the manager to pick the winner of the lottery. Don't forget to share your submissions with the community to get feedback.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1

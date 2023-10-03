@@ -1,0 +1,7 @@
+name: "Making Basic Structure"
+stepId: step0
+stepBreakDown:
+  - text: "Set the background color of body to #f0f8fb"
+  - text: "Use the img tag and add logo-image link to it"
+  - text: "set the width and height of the image"
+  - text: "Styling is done using tailwind CSS"

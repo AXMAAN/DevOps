@@ -1,0 +1,7 @@
+name: "Conclude the project"
+stepId: stp7
+stepBreakDown:
+  - text: "Add an event listener to the CALCULATE button."
+  - text: "Define some local variable within the callback function following instruction 2."
+  - text: "Deal with a bunch of conditionals following instruction 3."
+  - text: "Display the result to the output filed."

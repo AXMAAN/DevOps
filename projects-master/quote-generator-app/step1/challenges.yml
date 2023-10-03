@@ -1,0 +1,8 @@
+name: "Boilerplate Code"
+stepId: step1
+stepBreakDown:
+  - text: "Make sure that the boilerplate code for the HTML file is syntactically correct."
+  - text: "Create a `<div>` element with the class 'container'."
+  - text: "Create Header tag with title of the app within a h1 tag (Hint: Checkout instruction number 2)"
+  - text: "Set up Boilerplate for Quote Section"
+  - text: "Add a button to Generate a Quote"

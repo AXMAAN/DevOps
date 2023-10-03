@@ -1,0 +1,8 @@
+name: "Getting Started"
+stepId: step0
+stepBreakDown:
+    - text: Remove the <h1> tag from body along with it contents, so that you are remainig with only an empty <body> tag
+    - text: Clear the contents of style.css, so that you are remaining with empty css file
+    - text: You must have included the material icons in index.html
+    - text: You must have included the Roboto font family in style.css
+    

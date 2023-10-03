@@ -1,0 +1,8 @@
+name: "User details Continued"
+stepId: step3
+stepBreakDown:
+  - text: "Give small headings to Date of birth and gender selection input"
+  - text: "Use radio input to specify gender selection"
+  - text: "Add footer section to the form"
+  - text: "Usage of <a> tag for in the footer section"
+  - text: "Sign up button"

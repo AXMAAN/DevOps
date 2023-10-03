@@ -1,0 +1,5 @@
+name: "Hosting NFTs and Metadata to IPFS"
+stepId: step2
+stepBreakDown:
+  - text: "Sign Up or Login at Pinata"
+  - text: "Upload the nfts folder under src/assets folder to IPFS Network"

@@ -1,0 +1,19 @@
+name: YouTube UI Clone Project
+tags: ['HTML', 'CSS']
+starter-files: https://github.com/harshit-sharma-gits/youtube-clone-starter
+type: frontend
+level: easy
+cover-image: https://www.youtube.com/img/desktop/yt_1200.png
+short-description: A basic YouTube UI clone website, which will test out your HTML and CSS skills.
+long-description: |
+    Your challenge is to build out YouTube UI Clone using and get it looking as close to the design as possible.
+
+    This project focuses mostly on HTML, CSS and layouts with CSS.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

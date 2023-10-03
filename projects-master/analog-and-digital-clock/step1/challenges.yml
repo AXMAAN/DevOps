@@ -1,0 +1,5 @@
+name: "Styling Analog Clock"
+stepId: step1
+stepBreakDown:
+  - text: "Style the analog clock"
+  - text: "Use of CSS pseudo selectors is preferred"

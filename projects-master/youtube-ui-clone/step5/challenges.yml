@@ -1,0 +1,5 @@
+name: "Adding videos in the main section"
+stepId: step5
+stepBreakDown:
+    - text: You must have stylized the video cards using CSS
+    - text: You must have added at least 6 videos (may be same)

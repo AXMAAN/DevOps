@@ -1,0 +1,6 @@
+name: "Text type animation"
+stepId: step4
+stepBreakDown:
+  - text: "write custom js scipt for text animation in index.js file"
+  - text: "Use TypeIt function to add Text animation"
+  - text: "See if everything is working or not!"

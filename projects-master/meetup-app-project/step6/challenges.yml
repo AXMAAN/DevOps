@@ -1,0 +1,6 @@
+name: "Make api for adding meetups ,update meetup ,delete meetup etc.."
+stepId: step6
+stepBreakDown:
+  - text: "Make a API for adding Meetups"
+  - text: "Make a API for updating Meetups"
+  - text: "Make a API for deleting Meetups"

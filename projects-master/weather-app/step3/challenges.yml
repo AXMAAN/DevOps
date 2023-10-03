@@ -1,0 +1,6 @@
+name: "Introduction to React Hooks"
+stepId: step3
+stepBreakDown:
+    - text: 'Add statement `import { useState, useEffect } from "react"` at the top of source code'
+    - text: "Add statement `const [weather, setWeather] = useState(null)` on a new line just after 'export default function App() {'"
+    - text: "Add statement `const [coords, setCoords] = useState({latitude: 0,longitude: 0})` after the statement 'const [weather, setWeather] = useState(null)'"

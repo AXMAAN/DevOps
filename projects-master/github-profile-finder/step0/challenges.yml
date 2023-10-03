@@ -1,0 +1,7 @@
+name: "Making Basic Structure"
+stepId: step0
+stepBreakDown:
+  - text: "Create 2 new folder in src named slices and store"
+  - text: "Create new file in slices named githubSlices.js"
+  - text: "Create new file in store named store.js"
+  - text: "Import axios and dotenv"

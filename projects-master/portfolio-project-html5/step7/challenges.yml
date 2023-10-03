@@ -1,0 +1,9 @@
+name: 'making the work-tab responsive.'
+stepId: step7
+stepBreakDown:
+    - text: 'heading should not present in small and medium devices.'
+    - text: 'padding in wraper should be balanced.'
+    - text: 'on big screen the columns should be 3.'
+    - text: 'on maedium screen the columns should be 2.'
+    - text: 'on small screen the columns should be 1.'
+    - text: 'arrow should still point to work/folder icon.'

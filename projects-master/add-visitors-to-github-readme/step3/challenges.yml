@@ -1,0 +1,12 @@
+name: "Pushing code to your GitHub repo"
+stepId: step3
+stepBreakDown:
+  - text: "Create a Github token to push your code"
+  - text: "Create a Github repository"
+  - text: "Initialize Git"
+  - text: "Set Global Git Configuration"
+  - text: "Add all the files (what you want to push)"
+  - text: "Commit files"
+  - text: "Make a default branch (main)"
+  - text: "Add repo's origin"
+  - text: "Push the code."

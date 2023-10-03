@@ -1,0 +1,7 @@
+name: "Making the layout in HTML"
+stepId: step1
+stepBreakDown:
+    - text: You must have a <header> tag inside <body> with class "header"
+    - text: You must have a <main> tag below <header> tag.
+    - text: You must have two divs inside <main> tag with their classes as; "side-bar" and "content"
+    

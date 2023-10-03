@@ -1,0 +1,29 @@
+name: GitHub landing page Project
+tags: ["HTML/CSS","JavaScript"]
+starter-files: https://github.com/codedamn-projects/github-landing-page-clone
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/github-landing-page-clone/main/assets/desktop-design-non-fs.jpg
+short-description: Build a frontend clone for GitHub using the assets we provide and test your HTML, CSS and JavaScript skills.
+long-description: |
+  Your challenge is to build out this landing page and get it looking as close to the design as possible.
+  
+  This project focuses mostly on HTML & CSS. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  Your users should be able to:
+  
+  - View the optimal layout for the site depending on their device's screen size
+  
+  - See hover states for all interactive elements on the page
+  
+  Download the starter code and go through the `README.md` file. This will provide further details about the project. The `style-guide.md` file is where you'll find colors, fonts, etc.
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

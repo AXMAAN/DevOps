@@ -1,0 +1,6 @@
+name: 'Generating random invite code'
+stepId: step1
+stepBreakDown:
+    - text: Random invite code generation logic should work from backend
+    - text: A room can only consist of two users. Show error message is someone is trying to join room other than first two people.
+    - text: Once the second person joins the room, they should see both connected users.

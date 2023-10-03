@@ -1,0 +1,7 @@
+name: "Connect backend and frontend and also add authorization"
+stepId: step7
+stepBreakDown:
+  - text: "Make API calls using axios/fetch"
+  - text: "Make API calls using getStaticProps"
+  - text: "Make API calls using getServerSideProps"
+  - text: "Add authorization to every backend and frontend end-points"

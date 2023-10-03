@@ -1,0 +1,8 @@
+name: 'making index.html responsive.'
+stepId: step6
+stepBreakDown:
+    - text: 'in mobile view text part should not present.'
+    - text: 'image should not look like squashed or streched.'
+    - text: 'arrow shoul still point to the home icon.'
+    - text: 'the card should still be in center.'
+    - text: 'your home page should look great in all devices.'

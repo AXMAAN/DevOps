@@ -1,0 +1,4 @@
+name: "Adding content to the side-bar"
+stepId: step4
+stepBreakDown:
+    - text: You must have added content in the sidebar and stylized it using CSS

@@ -1,0 +1,14 @@
+name: Crowd Funding Smart Contract
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/codedamn-projects/CrowdFundingProject
+type: web3
+level: hard
+cover-image: https://raw.githubusercontent.com/kshitijofficial/CrowdFundingProject/main/asset/Funding.png
+short-description: This project will make you familiar with the concept of voting in the smart contracts.
+long-description: This is a Crowd Funding Smart Contract project.Crowd Funding - The practice of funding a project or venture by raising money from a large number of people who each contribute a relatively small amount, typically via the internet. In this, we are going to use our solidity smart contract to perform the funding. We will have three entities here first one will be the manager who will deploy the smart contract, the second will be the contributors who will contribute to our crowdfunding, and the third will be the recipient to whom the donation will be made.The manager will be able to create multiple requests for crowdfunding. For example - The manager can create a request for child education, environmental protection, food donation, etc. And the contributors will vote for the requests raised by the manager. The request that will receive the highest number of votes that the request's recipient will receive the money contributed by the contributor.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1

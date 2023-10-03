@@ -1,0 +1,7 @@
+name: Building a websocket server
+stepId: step2
+stepBreakDown:
+    - text: Once the user creates a new game, they get an invite code to share. You can connect this user1 via a websocket.
+    - text: You should start a socket.io room on backend at this point with the room associated with the roomID (random generated invited code).
+    - text: Once the second user joins this room, socket.io can be used to broadcast a common message to both the clients.
+    - text: Once that common message of "start" game arrives, both the users should be shown a Game screen.

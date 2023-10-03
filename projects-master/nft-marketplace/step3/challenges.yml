@@ -1,0 +1,11 @@
+name: "Make the frontend for DApp"
+stepId: step3
+stepBreakDown:
+  - text: "Render UI if any Ethereum wallet is found by the DApp or redirect user to Metamask installation page if no wallet is found"
+  - text: "Make the basic React frontend as referred in the UI Reference"
+  - text: "Authenticate Ethereum Wallet of user"
+  - text: "Create Smart Contract instance to refer deployed smart contract"
+  - text: "Generate card like component for each NFT Minted and the one which will be minted"
+  - text: "Make Mint button on card of NFT to be minted next which will make transaction"
+  - text: "Display disabled button saying Already Minted on card of NFT already minted"
+  - text: "Display NFT Image on card of NFTs already minted from their source image hosted on IPFS along with their Token ID"

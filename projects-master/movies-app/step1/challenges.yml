@@ -1,0 +1,11 @@
+name: "Making Website UI - Part 1"
+stepId: step1
+stepBreakDown:
+  - text: 'Create a <header> tag and give content as "Watch New Movie"'
+  - text: "Open `style.css` and give styling to header element - `Background-color` as secondary-color, make `display` as `flex` and give some properties as per requirement like  `justify-content`, `padding` and think values of these properties."
+  - text: 'Create <a> tag with class of "logo" and <form> tag with id of "search_form" inside the header tag'
+  - text: "Inside the <form> create a input with type as text and id, class as search."
+  - text: "Give placeholder as Search to input tag"
+  - text: "Select logo class and give properties : `background-color`"
+  - text: "Select search class and give properties : `background-color, border, border-radius, font-family, padding`"
+  - text: "Select pseudo selector of search class : `.search:focus` give properties as `outline: none; background-color: var(--primary_color); color: #fff; `"

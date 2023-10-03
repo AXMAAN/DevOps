@@ -1,0 +1,5 @@
+name: 'Calculate the score'
+stepId: step10
+stepBreakDown:
+  - text: "When a player avoids an obstacle, his score should be increased by ten points"
+  - text: "The player's score should be visible on the scoreboard"

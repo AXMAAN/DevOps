@@ -1,0 +1,7 @@
+name: "Add Google and facebook login"
+stepId: step4
+stepBreakDown:
+  - text: "Creating Project in Google Developer Console"
+  - text: "Get the credentials from there and store them in .env file"
+  - text: "Do same for facebaook also"
+  - text: "Implement the config.js"

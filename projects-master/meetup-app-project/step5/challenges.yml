@@ -1,0 +1,8 @@
+name: "Connect mongodb database to your app and make models for storing user data and meetup data."
+stepId: step5
+stepBreakDown:
+  - text: "Create a MongoDb Cluster"
+  - text: "Get the credentials from there and store them in .env file"
+  - text: "Connect the MongoDB to your app"
+  - text: "Make a model(schema) for users"
+  - text: "Make a model(schema) for meetups"

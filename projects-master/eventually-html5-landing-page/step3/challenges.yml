@@ -1,0 +1,6 @@
+name: "Make the page responsive"
+stepId: step3
+stepBreakDown:
+  - text: "The landing is responsive on mobile screens"
+  - text: "The landing page is responsive on small to medium sized screens"
+  - text: "The landing is responsive on large screens"

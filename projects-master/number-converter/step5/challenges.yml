@@ -1,0 +1,10 @@
+name: "Number conversion using two step method"
+stepId: stp5
+stepBreakDown:
+  - text: "Complete the function definition of `bin_to_oct(N)` function to convert a number from binary to octal number."
+  - text: "Complete the function definition of `bin_to_hex(N)` function to convert a number from binary to hexadecimal number."
+  - text: "Complete the function definition of `oct_to_bin(N)` function to convert a number from octal to binary number."
+  - text: "Complete the function definition of `oct_to_hex(N)` function to convert a number from octal to hexadecimal number."
+  - text: "Complete the function definition of `hex_to_bin(N)` function to convert a number from hexadecimal to binary number."
+  - text: "Complete the function definition of `hex_to_oct(N)` function to convert a number from hexadecimal to octal number."
+  

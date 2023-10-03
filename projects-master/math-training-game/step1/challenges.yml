@@ -1,0 +1,11 @@
+name: "Basic Layout"
+stepId: step1
+stepBreakDown:
+  - text: "Make sure that the boilerplate code for the HTML file is syntactically correct."
+  - text: "Create a `<div>` element within `<main>` and after `<h1>` with the class 'box' following instruction 1."
+  - text: "Create a `section` tag within `.box` element with the class 'sec1'."
+  - text: "Create a paragraph tag within the `.sec1` element with the class `instruction`."
+  - text: "Create three <div> tag within the `.sec1` element and after `.instruction` element following instruction 4."
+  - text: "Create another `section` tag within `.box` element and after `.sec1` element with the class `sec2`."
+  - text: "Create four `button` tags and a `div` tag within the `.sec2` element following instruction 6."
+  - text: "Create two `audio` tag within `main` tag and after `.box` element following instruction 7."

@@ -1,0 +1,7 @@
+name: "Creating the Digital Clock"
+stepId: step3
+stepBreakDown:
+  - text: "Select the elements of digital clock in the script.js file"
+  - text: "Inside SetInterval, Set all the clock values to respective elements"
+  - text: "Calculate & display AM or PM"
+  - text: "Style the Digital Clock based upon style guide in `README.md` and cover image."

@@ -1,0 +1,7 @@
+name: "Adding Fliers and Boxes with Information"
+stepId: step2
+stepBreakDown:
+  - text: "Adding Fliers and boxes with div tag"
+  - text: "Divide into 2 sections"
+  - text: "Add 3 Fliers in Section 1"
+  - text: "Add numerous in Section 2 "

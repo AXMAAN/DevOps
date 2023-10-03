@@ -1,0 +1,9 @@
+name: "Adding Styles"
+stepId: step1
+stepBreakDown:
+  - text: "Adding sans-serif font to Generate Meme Button"
+  - text: "Align the button to center"
+  - text: "Add background-color to Generate Meme button (#fff)"
+  - text: "Add color to Generate Meme button (#f64d4d)"
+  - text: "Add transition to button of 400ms "
+  - text: "Set the border-left and border-right to 4 px and color #222"

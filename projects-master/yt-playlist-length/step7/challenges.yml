@@ -1,0 +1,6 @@
+name: "Configure EJS"
+stepId: step7
+stepBreakDown:
+  - text: "Created EJS file following all requirements."
+  - text: "Updated `index.js` code for integration of frontend and backend"
+  - text: "Successfully integrated Frontend and Backend"

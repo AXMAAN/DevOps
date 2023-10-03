@@ -1,0 +1,4 @@
+name: 'Long breaks'
+stepId: step4
+stepBreakDown:
+- text: 'Every fourth break must be 15 minutes long'
