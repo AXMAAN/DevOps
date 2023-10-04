@@ -1,0 +1,8 @@
+name: "Start making the game interactive"
+stepId: step3
+stepBreakDown:
+  - text: "Create some global variables in `script.js` file following instruction 1."
+  - text: "Create an array of `options` following instruction 2."
+  - text: "Complete the function which returns a random number in the given range."
+  - text: "Complete the function which returns a random arithmetic operator."
+  - text: "Complete the function which sets the value of `operand1`, `operator` and `operand2` fields."

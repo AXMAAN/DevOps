@@ -1,0 +1,9 @@
+name: "Adding Quote Component"
+stepId: step1
+stepBreakDown:
+  - text: "Make sure that app is running and showing static data."
+  - text: "Create a Quote component in components folder."
+  - text: "Integrate Quotable API to get quote json data."
+  - text: "Show quote text and author name."
+  - text: "Add refresh button to refetch quote data."
+  - text: "Style the component."

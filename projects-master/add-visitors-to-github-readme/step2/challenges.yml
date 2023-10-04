@@ -1,0 +1,7 @@
+name: "Create a new push from workflow"
+stepId: step2
+stepBreakDown:
+  - text: "Set git global configuration (like name, email)"
+  - text: "git files 'data.json' and 'README.md' to staging area"
+  - text: "create a new commit message"
+  - text: "push the changes to repository"

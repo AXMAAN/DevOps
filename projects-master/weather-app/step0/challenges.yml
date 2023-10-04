@@ -1,0 +1,9 @@
+name: "Lets Style it!"
+stepId: step0
+stepBreakDown:
+    - text: "Make sure you have some claases like `row`, `col-3`, `card`, `card-title`, `card-body` already applied in the code"
+    - text: "Add a class `container` to the `<div>` element with the ID 'weather-app'."
+    - text: "Add a class `input-group` to the `<div>` element with the ID 'coordinates'."
+    - text: "Add a class `input-group-text` to both the `<span>` elements."
+    - text: "Add a class `form-control` to both the `<input>` elements."
+    - text: "Add a class `btn` and `btn-warning` to the `<button>` element having text 'Auto-Detect'."

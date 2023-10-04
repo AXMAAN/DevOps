@@ -1,0 +1,8 @@
+name: 'Creating Elements and tags'
+stepId: step0
+stepBreakDown:
+  - text: 'Add the theme changing button and the main of the page'
+  - text: 'Add the sections inside main'
+  - text: 'Add the h1 elements with proper text'
+  - text: 'Add the textarea element inside 1st section'
+  - text: 'Add the article element inside 2nd section'

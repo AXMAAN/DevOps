@@ -1,0 +1,22 @@
+name: Galaxy Library
+tags: ["HTML/CSS", "JavaScript", "React", "TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/galaxy-library
+type: frontend
+level: medium
+cover-image: https://raw.githubusercontent.com/codedamn-projects/galaxy-library/main/public/main.png
+short-description: A Small Library which contains the information of galactic Species , Vehicles , Ships which appeared
+long-description: |
+    In this project, you're supposed to build a Galaxy Library. This includes the following features:
+
+    - Home Page
+    - Custom Routes for different Categories
+    - Data Fetching
+
+    A detailed breakdown is available in the README.md file once you start the project. You already know the drill. All the best!
+
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true

@@ -1,0 +1,9 @@
+name: 'Setting up the obstacles'
+stepId: step3
+stepBreakDown:
+  - text: "Provide the pipes with the appropriate width and height"
+  - text: "Ensure that the first pipe sticks to the top of the game container"
+  - text: "Give the pipes a background image"
+  - text: "Ensure that the first pipe is inverted"
+  - text: "Ensure that the second pipe is straight and sticks to the bottom of the game container"
+  - text: "Ensure that a constant gap is maintained between the two pipes"

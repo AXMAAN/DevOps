@@ -1,0 +1,7 @@
+name: "Creating Actions for repo and users in githubSlices.js"
+stepId: step1
+stepBreakDown:
+  - text: "Add createSlice and createAsyncThunk from @reduxjs/toolkit"
+  - text: "Fetch Repos using Github api"
+  - text: "Fetch Profiles using Github api"
+  - text: "Creating reducers for repos and profile for different stage which include pending,fulfilled,rejected"

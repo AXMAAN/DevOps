@@ -1,0 +1,8 @@
+name: 'Building the landing page'
+stepId: step0
+stepBreakDown:
+    - text: Landing page should look according to design
+    - text: There should be two input fields, one for username and the other one for the roomID
+    - text: There should be a button allowin users to join the room.
+    - text: There should also be a link, which creates a room. The functionality of this room can be implemnted later.  
+    - text: Your application should not allow the user to join a room without any empty fields.

@@ -1,0 +1,9 @@
+name: 'Create a Form Component for Meme Generator Web Application'
+stepId: step1
+stepBreakDown:
+    - text: 'There must be a <form>...</form> tag in the form component'
+    - text: 'It must conatin two <input /> tags of "type = text"'
+    - text: 'The Form component must contain a react state storing the text inputted in the input tags'
+    - text: 'Each input tag must have a "name" and "value" property for setting up controlled form inputs'
+    - text: 'The Form component must contain a function named "handleChange" to update the change in the inputted text to the corresponding state'
+    - text: 'It must contain a button element having text = "New Meme Image" for getting a random meme image every time it is clicked'

@@ -1,0 +1,7 @@
+name: "Add reducer to store.js and generate access Token"
+stepId: step2
+stepBreakDown:
+  - text: "Import configureStore from @reduxjs/toolkit "
+  - text: "use configureStore function to provide reducer to it"
+  - text: "Generate Access token from github"
+  - text: "Create .env in root folder and add token to it"

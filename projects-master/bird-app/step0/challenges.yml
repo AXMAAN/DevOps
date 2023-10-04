@@ -1,0 +1,7 @@
+name: 'Build a landing page for the social media'
+stepId: step0
+stepBreakDown:
+    - text: 'Your landing page should exist'
+    - text: 'Setup `react-router` package to work with routing logic.'
+    - text: 'There should be links to /login and /register page for user. We will build these pages later.'
+    - text: 'The landing page should have a basic but proper layout'

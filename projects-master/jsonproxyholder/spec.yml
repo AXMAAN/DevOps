@@ -1,0 +1,29 @@
+name: JSON Proxy Holder
+tags: ['JavaScript', 'Node.js', 'Express']
+starter-files: https://github.com/codedamn-projects/jsonproxyholder
+type: backend
+level: easy
+cover-image: https://raw.githubusercontent.com/codedamn-projects/instagram-clone-project/main/assets/desktop-design-non-fs.jpg
+short-description: In this project, you're supposed to work with a popular JSON placeholder API by proxying the response from your backend server.
+long-description: |
+    Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+
+    This project focuses on your JavaScript and Node.js skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    Your tasks for this project are 
+
+    - proxy all of your backend requests received to the `jsonplaceholder.typicode.com` endpoint
+
+    -  add a custom header in every response you send
+
+    - using the backend api to build a simple react app that displays the data from the backend api you've created
+
+
+    You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

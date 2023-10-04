@@ -1,0 +1,8 @@
+name: "Getting Started"
+stepId: step0
+stepBreakDown:
+    - text: "Complete the provided smart contract by making required functions for the project"
+    - text: "Deploy the contract on the local blockchain"
+    - text: "Host provided NFTs and their metadata on IPFS network"
+    - text: "Make the frontend as per provided UI Reference"
+    - text: "Add Ethereum Wallet authentication and call smart contract functions in the frotend"

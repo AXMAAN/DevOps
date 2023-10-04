@@ -1,0 +1,6 @@
+name: "Create box for facts"
+stepId: step2
+stepBreakDown:
+  - text: "Create a box which will contain the fact"
+  - text: "Use bold and smooth font"
+  - text: "Add transition or animation on the text"

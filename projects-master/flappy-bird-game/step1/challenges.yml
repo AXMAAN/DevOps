@@ -1,0 +1,6 @@
+name: 'Setting up the scene'
+stepId: step1
+stepBreakDown:
+  - text: "Make sure that the game container is at the center of the viewport"
+  - text: "Add a background image to the game container"
+  - text: "Put a border around the game container"

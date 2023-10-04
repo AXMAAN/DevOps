@@ -1,0 +1,6 @@
+name: "Implementing the delete functionality."
+stepId: step3
+stepBreakDown:
+  - text: "Callback from the Note component to trigger a delete function."
+  - text: "Pass a id over to the Note component, pass it back to the App when deleting."
+  - text: "Using the passed id, implement the filter function to filter out the item that needs deletion."

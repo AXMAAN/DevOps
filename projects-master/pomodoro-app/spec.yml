@@ -1,0 +1,21 @@
+name: Pomodoro app
+tags: ["HTML/CSS", "JavaScript"]
+starter-files: https://github.com/SiddharthShyniben/pomodoro-starter
+type: frontend
+level: hard
+cover-image: https://raw.githubusercontent.com/SiddharthShyniben/pomodoro-starter/master/designs/ui.png
+short-description: A simple, stylish time tracking app based on the Pomodoro technique. You will learn about working with date and time, and about DOM manipulation.
+long-description: |
+  Your challenge is to build this interactive time tracking app and make it look and work as close to the original as possible.
+
+  This project is mostly JavaScript and CSS.
+
+  Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true

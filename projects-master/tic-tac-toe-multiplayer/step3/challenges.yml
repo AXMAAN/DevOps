@@ -1,0 +1,9 @@
+name: Building game screen
+stepId: step3
+stepBreakDown:
+    - text: The computer randomly assigns `X` to one user and `O` to another user.
+    - text: The user can only click on the board when it is their turn
+    - text: The turn starts with `user1` always.
+    - text: Once user1 clicks, a broadcast message is sent to user2 that their turn is enabled. And this happens similarly with user2.
+    - text: On every turn, the frontend JS has to check if there is any row, column or diagonal row that consists of same symbols (either `X` or `O`). If yes, the game is over.
+    - text: Game over message is broadcasted by the winning client to the losing client and a game over message is displayed to both.

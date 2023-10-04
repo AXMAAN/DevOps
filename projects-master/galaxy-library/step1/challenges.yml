@@ -1,0 +1,6 @@
+name: 'Card Components'
+stepId: step1
+stepBreakDown:
+    - text: 'Project Contains Planet Card Component'
+    - text: 'Project Contains Vehicle Card Component'
+    - text: 'Project Contains Starship Card Component'

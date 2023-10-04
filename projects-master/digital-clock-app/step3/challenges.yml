@@ -1,0 +1,7 @@
+name: "Integrate APIs and make clock widget functional"
+stepId: step3
+stepBreakDown:
+  - text: "Make fetch call to get user's location and timezone data.(Or use browser's Geolocation API)"
+  - text: "Create the function to change time on screen every minute"
+  - text: "Show User's location and timezone and current date."
+  - text: "Change background image and greeting message based on current time."

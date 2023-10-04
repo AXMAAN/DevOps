@@ -1,0 +1,9 @@
+name: "Adding Styles"
+stepId: step2
+stepBreakDown:
+  - text: "Adding 'Roboto' font to heading and description"
+  - text: "Align the content of the page to left-center"
+  - text: "Add background-color to Sign up button (#1cb495)"
+  - text: "Add spacing between form input and button"
+  - text: "Align the social icons in a single row"
+  - text: "Set the font size to heading, description and footer text"

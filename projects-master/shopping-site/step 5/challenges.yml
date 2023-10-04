@@ -1,0 +1,6 @@
+name: "Adding js methods"
+stepId: step5
+stepBreakDown:
+  - text: "Coded showModal method"
+  - text: "Coded hideModal method"
+  

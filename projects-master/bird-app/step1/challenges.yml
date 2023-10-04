@@ -1,0 +1,7 @@
+name: 'Build a register page at /register'
+stepId: step1
+stepBreakDown:
+    - text: 'Make sure that /register page is reachable from homepage via a link'
+    - text: 'Usernames should be unique, alphanumeric only.'
+    - text: 'Passwords should be strong.'
+    - text: 'There should be proper error messages on error inside UI'

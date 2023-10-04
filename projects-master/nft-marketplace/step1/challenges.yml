@@ -1,0 +1,7 @@
+name: "Modifying ERC721 Smart Contract"
+stepId: step1
+stepBreakDown:
+  - text: "Add a function to check if the NFT is already owned by someone"
+  - text: "Add a function to facilitate NFT transfer in exchange of some Ethers" 
+  - text: "Add a function that will return value of current token count"
+  - text: "Compile and Deploy the Smart Contract"

@@ -1,0 +1,10 @@
+name: "Making Website UI - Part 3"
+stepId: step3
+stepBreakDown:
+  - text: "Add style to  `.movie` class"
+  - text: "Add Style to Img to class name : `.movie-img`"
+  - text: "Add Style to `<div>` to class name : `.movie-info`"
+  - text: "Add Style to `<h3>` `.movie-info` and `<span>`"
+  - text: "Add style or create 3 modifier class which will be used as per rating like .movie-info span.green `span.orange` and `span.red` give color as per rating"
+  - text: "Add style to overview class "
+  - text: "Add pseudo-element to `.overview` of hover for that we can make the content as visible. and give properties as : transform: translateY(0);"
