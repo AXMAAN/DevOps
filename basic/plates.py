@@ -5,15 +5,11 @@ def main():
     else:
         print("Invalid")
 def is_valid(plate):
-    if 2 <= len(plate) <= 6 and plate[:2].isalpha():
+    if 2 <= len(plate) <= 6 and (plate[0:].isalpha() or plate[:2].isalpha()) and (plate[2:].isdigit() or plate[3:].isdigit() or plate[4:].isdigit() or plate[5:].isdigit() or plate[6:].isdigit()) :
          return True
-    if plate[0:].isalpha() or plate[2:].isdigit() or plate[3:].isdigit() or plate[4:].isdigit() or plate[5:].isdigit() or plate[6].isdigit():
-                if not plate.isalpha() or not plate[2:].isdigit():
-                    return True
-                return True
+
     
 
-    return True
     
 main()
 
