@@ -1,0 +1,54 @@
+name: "Setup authentik testing environment"
+description: "Setup authentik testing environment"
+
+inputs:
+  postgresql_version:
+    description: "Optional postgresql image tag"
+    default: "16"
+
+runs:
+  using: "composite"
+  steps:
+    - name: Install poetry & deps
+      shell: bash
+      run: |
+        pipx install poetry || true
+        sudo apt-get update
+        sudo apt-get install --no-install-recommends -y libpq-dev openssl libxmlsec1-dev pkg-config gettext
+    - name: Setup python and restore poetry
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: "pyproject.toml"
+        cache: "poetry"
+    - name: Setup node
+      uses: actions/setup-node@v4
+      with:
+        node-version-file: web/package.json
+        cache: "npm"
+        cache-dependency-path: web/package-lock.json
+    - name: Setup go
+      uses: actions/setup-go@v5
+      with:
+        go-version-file: "go.mod"
+    - name: Setup dependencies
+      shell: bash
+      run: |
+        export PSQL_TAG=${{ inputs.postgresql_version }}
+        docker compose -f .github/actions/setup/docker-compose.yml up -d
+        poetry install
+        cd web && npm ci
+    - name: Generate config
+      shell: poetry run python {0}
+      run: |
+        from authentik.lib.generators import generate_id
+        from yaml import safe_dump
+
+        with open("local.env.yml", "w") as _config:
+            safe_dump(
+                {
+                    "log_level": "debug",
+                    "secret_key": generate_id(),
+                },
+                _config,
+                default_flow_style=False,
+            )
